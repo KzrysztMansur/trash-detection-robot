@@ -1,0 +1,2 @@
+0 inorganic waste
+1 organic waste
